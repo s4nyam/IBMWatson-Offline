@@ -1,0 +1,23 @@
+Hello sir,
+Now I am going to present a demo for our project till now we developed.. 
+
+So here it goes...
+
+These are the pre recorded files which we downloaded from internet samples called audio-net  - a database for free and royalty free audio samples...
+
+
+
+so these are just sample input files for our project and we are going to take output from thses files recursively using watson API (online)..
+also we have used an algorithm to make the voice feature so clear so as it cleans the audio file and removes background noise which have low frequence voice...
+So now lets run the code and see the output...
+
+
+So this is processing period which is time taking,..
+It converts the speech files to a json tree and put it in output folder and just completes our result as Speech to text using IBM watson api ONLINE...
+So its done...
+Now lets see the output...
+
+
+
+
+

@@ -1,0 +1,897 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "Sir", 
+                            1.25, 
+                            1.54
+                        ]
+                    ], 
+                    "transcript": "Sir "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.8
+                        ]
+                    ], 
+                    "transcript": "six of "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "two", 
+                            1.92, 
+                            2.06
+                        ]
+                    ], 
+                    "transcript": "six of the two "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "top", 
+                            1.92, 
+                            2.1
+                        ]
+                    ], 
+                    "transcript": "six of the top "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "torn", 
+                            1.92, 
+                            2.2
+                        ]
+                    ], 
+                    "transcript": "six of the torn "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.46
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.63
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.8
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.14
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "North", 
+                            3.07, 
+                            3.4
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in North "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.54
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.64
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.74
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.68
+                        ], 
+                        [
+                            "coal", 
+                            3.68, 
+                            3.98
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast coal "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.68
+                        ], 
+                        [
+                            "Colorado", 
+                            3.68, 
+                            4.24
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast Colorado "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.68
+                        ], 
+                        [
+                            "Colorado", 
+                            3.68, 
+                            4.3
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast Colorado "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.68
+                        ], 
+                        [
+                            "Colorado", 
+                            3.68, 
+                            4.35
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast Colorado "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.68
+                        ], 
+                        [
+                            "Colorado", 
+                            3.68, 
+                            4.45
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast Colorado "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.965, 
+                    "timestamps": [
+                        [
+                            "six", 
+                            1.25, 
+                            1.71
+                        ], 
+                        [
+                            "of", 
+                            1.71, 
+                            1.82
+                        ], 
+                        [
+                            "the", 
+                            1.82, 
+                            1.92
+                        ], 
+                        [
+                            "tornadoes", 
+                            1.92, 
+                            2.49
+                        ], 
+                        [
+                            "struck", 
+                            2.49, 
+                            2.9
+                        ], 
+                        [
+                            "in", 
+                            2.9, 
+                            3.07
+                        ], 
+                        [
+                            "northeast", 
+                            3.07, 
+                            3.68
+                        ], 
+                        [
+                            "Colorado", 
+                            3.68, 
+                            4.45
+                        ]
+                    ], 
+                    "transcript": "six of the tornadoes struck in northeast Colorado ", 
+                    "word_confidence": [
+                        [
+                            "six", 
+                            1.0
+                        ], 
+                        [
+                            "of", 
+                            1.0
+                        ], 
+                        [
+                            "the", 
+                            1.0
+                        ], 
+                        [
+                            "tornadoes", 
+                            0.81
+                        ], 
+                        [
+                            "struck", 
+                            1.0
+                        ], 
+                        [
+                            "in", 
+                            1.0
+                        ], 
+                        [
+                            "northeast", 
+                            1.0
+                        ], 
+                        [
+                            "Colorado", 
+                            0.995
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "six of the tornado struck in northeast Colorado "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}
